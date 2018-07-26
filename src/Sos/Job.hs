@@ -13,7 +13,7 @@ import Control.Concurrent.MVar (readMVar)
 import Control.Exception
 import Data.Function (on)
 import Data.List.NonEmpty (NonEmpty)
-import Data.Monoid
+-- import Data.Monoid
 import System.Exit
 import System.IO
 import System.IO.Error (tryIOError)

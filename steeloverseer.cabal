@@ -1,8 +1,8 @@
--- This file has been generated from package.yaml by hpack version 0.20.0.
+-- This file has been generated from package.yaml by hpack version 0.28.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: e0468a343c9d01e573c139ad9fedc221aecdc503cfb35a1e36094f14f2b4e93c
+-- hash: 31f4b7db77db95ce4cc77fead0d82056baa217012a911add584df92e3c2fc079
 
 name:           steeloverseer
 version:        2.0.2.0
@@ -19,7 +19,6 @@ description:    A command line tool that responds to filesystem events. Allows t
 category:       Development
 author:         Schell Scivally,
                 Mitchell Rosen
-
 extra-source-files:
       README.md
 
